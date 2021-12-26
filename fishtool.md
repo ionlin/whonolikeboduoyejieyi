@@ -58,7 +58,7 @@ make menuconfig
 都勾了。         
 
 * LuCI > Themes >          
-一般不建议勾选bootstrap之外的主题。      
+一般不建议勾选bootstrap、material之外的主题。      
 
 * LuCI > Applications >         
 MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。          
