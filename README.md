@@ -35,6 +35,12 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [AXS矮小少软路由固件](https://t.me/aixiaoshao)
 
 ==================================================================================
+## x64 多人运动专区           
+4P：ssrp+passwall+openclash+vssr+基础必须插件               
+
+* [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
+
+==================================================================================
 ## 入门教程区        
 
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
