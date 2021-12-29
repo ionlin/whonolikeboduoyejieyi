@@ -41,7 +41,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
 
 ==================================================================================
-## 流行设备 ImmortalWrt专区     
+## All流行设备 ImmortalWrt专区     
 内置软件源，极简固件基础上让你随心所欲安装所需插件，懒人与小白自定义固件的究极神器                      
 
 * [ImmortalWrt官方发行站](http://downloads.immortalwrt.org)                     
