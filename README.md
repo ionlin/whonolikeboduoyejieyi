@@ -41,6 +41,12 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
 
 ==================================================================================
+## 所有流行设备 ImmmortalWrt专区     
+内置软件源，极简固件基础上让你随心所欲安装所需插件，懒人与小白自定义固件的究极神器                      
+
+* [ImmortalWrt官方发行站](http://downloads.immortalwrt.org)                     
+
+==================================================================================
 ## 入门教程区        
 
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）      
@@ -68,7 +74,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                 
 * [天灵的频道](https://t.me/nanopi_r2s)                             
 * [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)       
-* [博推小报频道](https://t.me/FQnews) （数码为主资讯搬运、群友日常吐槽记录）             
+* [博推小报频道](https://t.me/FQnews) （数码为主资讯搬运、群友日常吐槽记录）                           
 
 ==================================================================================
 ## about
