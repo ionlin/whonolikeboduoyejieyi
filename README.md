@@ -64,9 +64,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [主流网站的可用状态](https://downdetector.com)        
 
 ==================================================================================
-## 其他推荐         
-* [ssrp及其他主流插件的ipk文件分发](https://t.me/ssrpIPKnb)      
-* [passwall及其他主流插件的ipk文件分发](https://t.me/passwallIPKnb)          
+## 其他推荐              
 * [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)                         
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
 * [Lean人雕语 频道](https://t.me/LeanSaidWTF) （Lean官方消息/Lean发布源码更新通知......）               
