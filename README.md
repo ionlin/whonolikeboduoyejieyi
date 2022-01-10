@@ -16,16 +16,11 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```   
 
 ==================================================================================
-## x64 原味专区     
-下面的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！       
+## x64 passwall专区     
 .7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）         
 
-① * [x64 ssrpOpenWrt](https://t.me/ssrpOpenWRT)       
-推荐小白及不爱折腾用户使用。采用 [ssrp](https://github.com/fw876/helloworld) 及 [ssrp纯正所属OpenWrt分叉By Lean](https://github.com/coolsnowwolf/lede)      
-目前分流只有一个netflix，且无法手动添加更多分流规则。      
-
-② * [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)      
-推荐喜爱自定义更多用户使用。采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 及 [passwall纯正所属OpenWrt分叉By Lienol](https://github.com/Lienol/openwrt)   
+* [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)      
+采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 及 [passwall纯正所属OpenWrt分叉By Lienol](https://github.com/Lienol/openwrt)   
 自带分流覆盖netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。                   
 
 ==================================================================================
@@ -64,22 +59,13 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [主流网站的可用状态](https://downdetector.com)        
 
 ==================================================================================
-## 其他推荐              
-* [Lean的稳定版OpenWrt分叉](https://github.com/coolsnowwolf/openwrt)                         
-* [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)          
-* [Lean人雕语 频道](https://t.me/LeanSaidWTF) （Lean官方消息/Lean发布源码更新通知......）               
-* [Lean仰加成 频道](https://t.me/LeanAtYou) （Lean权威发布潘多拉/OpenWrt固件、Lean魔改ESXI/BIOS/Windows/MacOS、破解、游戏......）          
-* [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                 
-* [天灵的频道](https://t.me/nanopi_r2s)                             
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)       
-* [博推小报频道](https://t.me/FQnews) （数码为主资讯搬运、群友日常吐槽记录）                           
-
+## 其他推荐                                         
+* [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                                
+* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)                     
 ==================================================================================
 ## about
 本页面打理目前由 [助理](https://t.me/BDYJY666) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)           
-![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)           
-![1](https://user-images.githubusercontent.com/73426989/145673118-d9cdef71-7b97-465d-8d38-3ca6dcea2c1d.png)           
-值得信赖           
+![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)                
 
 
 
