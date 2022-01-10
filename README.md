@@ -61,7 +61,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ==================================================================================
 ## 其他推荐                                         
 * [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                                
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)                     
+* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
+             
 ==================================================================================
 ## about
 本页面打理目前由 [助理](https://t.me/BDYJY666) 负责，有事请联系它(仅限于友链等正事。其他的BUG反馈什么的请在发布的固件说明里找到对应issues去反馈)           
