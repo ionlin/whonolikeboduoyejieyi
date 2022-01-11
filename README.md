@@ -57,11 +57,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)                    
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
-
-==================================================================================
-## 其他推荐                                         
-* [passwall初代开发者Lienol的电报群](https://t.me/joinchat/7eoFQG0BJC1hN2Q1) (Lienol目前已经不参与passwall开发。passwall由xiaorouji接手开发中)                                
-* [东东油管频道](https://www.youtube.com/c/BIGdongdong/videos)        
              
 ==================================================================================
 ## about
