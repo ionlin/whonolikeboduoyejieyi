@@ -44,9 +44,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ==================================================================================
 ## 入门教程区        
 
-* [总频道](https://t.me/OpenWRTcn)（教程/导航）      
-* [VPS/虚拟专用服务器/小鸡](./MyFanFan.md)       
-* [机场/梯子/广义VPN](./youlian/jichang.md)            
+* [总频道](https://t.me/OpenWRTcn)（教程/导航）        
 * [OpenWrt编译入门秘籍](./fishtool.md)    
 * [banner生成器](http://www.network-science.de/ascii)        
 * [单线程测速](http://speed.cloudflare.com)    
