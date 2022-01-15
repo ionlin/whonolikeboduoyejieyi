@@ -31,7 +31,6 @@ src-git OpenClash https://github.com/vernesong/OpenClash
 src-git lienol https://github.com/Lienol/openwrt-package
 #这是Lienol的package库，里面有一些lede里没有的包      
 ```
-![1](https://user-images.githubusercontent.com/73426989/121642837-a2946600-cac3-11eb-8165-0ed282687a1e.png)
 
 ==================================================================================                
 ### 接下来就可以继续按照[操作说明](https://github.com/coolsnowwolf/lede#readme)中的三步走
