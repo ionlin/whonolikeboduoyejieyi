@@ -18,8 +18,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```   
 
 ==================================================================================
-## x64 passwall专区     
-.7z文件用 [压缩软件](https://cn.bandisoft.com/bandizip/) 解压后.img.gz可以进一步解压到.img文件（需不需要进一步解压根据实际情况而定）         
+## x64 passwall专区            
 
 * [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)             
 passwall自带的分流规则包含了netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。                
