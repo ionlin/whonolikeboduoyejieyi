@@ -46,13 +46,13 @@ passwall自带的分流规则包含了netflix、telegram等，已经满足大部
 
 * [总频道](https://t.me/OpenWRTcn)（教程/导航）        
 * [OpenWrt编译入门秘籍](./fishtool.md)    
+* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)         
 * [banner生成器](http://www.network-science.de/ascii)        
 * [单线程测速](http://speed.cloudflare.com)    
 * [搬瓦工提供IP连通性测试](https://ping.pe)   
 * [国内各省市对某网站ping检测](http://ping.chinaz.com)             
 * [查询IP地址](http://www.ip111.cn)     
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
-* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)                    
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
 
