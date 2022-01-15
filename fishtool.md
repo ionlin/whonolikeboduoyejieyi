@@ -27,7 +27,7 @@ src-git lienol https://github.com/Lienol/openwrt-package
 #这是Lienol的package库，里面有一些lede里没有的包      
 ```
               
-## 接下来就可以继续按照[操作说明](https://github.com/coolsnowwolf/lede#readme)中的三步走
+## 接下来三步走
 
 ```
 ./scripts/feeds update -a
