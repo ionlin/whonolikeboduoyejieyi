@@ -19,20 +19,25 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ## x64 passwall专区            
 
-* [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)             
-passwall自带的分流规则包含了netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。                
+passwall自带的分流规则包含了netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。     
 
-## x64 * R2S * R4S * R2C 矮小少专区       
+* [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)             
+             
+
+## x64 * R2S * R4S * R2C 矮小少专区   
+
 缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的盗版及破解插件           
   
 * [AXS矮小少软路由固件](https://t.me/aixiaoshao)
 
-## x64 多人运动专区           
+## x64 多人运动专区             
+
 缝合了ssrp+passwall+openclash+vssr+基础必须插件               
 
 * [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
 
-## All流行设备 ImmortalWrt专区     
+## All流行设备 ImmortalWrt专区           
+
 内置软件源，极简固件基础上让你随心所欲安装所需插件，懒人与小白自定义固件的究极神器。         
 
 * [ImmortalWrt官方发行站](http://downloads.immortalwrt.org)                     
@@ -51,7 +56,8 @@ passwall自带的分流规则包含了netflix、telegram等，已经满足大部
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
 
-## about
+## about           
+
 本页面由 [助理](https://t.me/BDYJY666) 制作      
 ![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)       
 
