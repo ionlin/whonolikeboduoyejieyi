@@ -4,7 +4,7 @@
 
 ## 这里是简短的编译OpenWrt入门秘籍       
 
-截至2021.06.07，除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)（天灵推荐编译环境系统为Ubuntu18.04）缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇openwrt编译小作文...     
+目前除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)（天灵推荐编译环境系统为Ubuntu18.04）缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇openwrt编译小作文...     
     
 ### 选择op分叉主体         
 
