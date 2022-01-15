@@ -68,8 +68,4 @@ MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,�
 软路由就无脑ssrp全勾+passwall全勾+openclash全勾+其他你知道的用过的一些什么各种文件服务器、VPN服务端、qos、TTYD、uu加速器......眼熟的都可以选，不熟的别选。   
 ![1](https://user-images.githubusercontent.com/73426989/121642667-69f48c80-cac3-11eb-9034-e67292c4a701.png)        
 
-==================================================================================            
-[我都学会了，但是我只想白嫖固件](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
-![1](https://user-images.githubusercontent.com/73426989/121065702-a42c0880-c7fb-11eb-862e-6498f28eb4d4.png)          
-
 [返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)        
