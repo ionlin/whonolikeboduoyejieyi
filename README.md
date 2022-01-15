@@ -1,3 +1,5 @@
+![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)           
+
 # OpenWrt中国大陆       
 * 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
@@ -59,7 +61,6 @@ passwall自带的分流规则包含了netflix、telegram等，已经满足大部
 ## about
 本页面由 [助理](https://t.me/BDYJY666) 制作      
 ![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)       
-![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)        
 
 
 
