@@ -58,7 +58,9 @@ passwall自带的分流规则包含了netflix、telegram等，已经满足大部
 ==================================================================================
 ## about
 本页面由 [助理](https://t.me/BDYJY666) 制作      
-![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)                
+![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)       
+![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)        
+
 
 
 
