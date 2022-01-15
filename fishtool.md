@@ -1,17 +1,18 @@
 # 授人以鱼不如授人以渔
 
-## 这里是简短的编译OpenWrt入门秘籍 
-![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)    
+![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)     
+
+## 这里是简短的编译OpenWrt入门秘籍       
+
 截至2021.06.07，除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)（天灵推荐编译环境系统为Ubuntu18.04）缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了，为了照顾新人定制编译属于自己的固件，故有了这篇openwrt编译小作文...     
     
 ### 选择op分叉主体         
 
 从编译通过率来看毫无疑问推荐（因为用的人多，所以意味着测试的人多，bug自然扫除更快更多）：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)         
-![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)  
 此部分[操作说明](https://github.com/coolsnowwolf/lede#readme)已经很详细了(git clone 结束后此部分结束)            
             
-### 需要手动添加ssrp、passwall、openclash等插件     
-这部分开始前先大声对火星来的说“[passwall](https://github.com/xiaorouji/openwrt-passwall)没有删库跑路，只是曾经私有库过一段时间，目前是xiaorouji own并主导开发中”          
+### 需要手动添加ssrp、passwall、openclash等插件      
+        
 此部分操作说明（保存编辑过的feeds.conf.default后此部分结束）：    
 ```
 #在拉取的op分叉主体的源码的feeds.conf.default文件(lede目录下即可找到)中添加：  
