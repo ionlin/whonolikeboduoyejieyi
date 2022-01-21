@@ -2,17 +2,17 @@
 
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)           
 
-## 矮小少专区    
+## OpenWrt_Pro专区    
 
 支持：x64 * R2S * R4S * R2C         
   
-* [AXS矮小少软路由固件](https://t.me/aixiaoshao)
+* [OpenWrt_Pro](https://t.me/aixiaoshao)
 
-## 多人运动专区             
+## OpenWrt_mini专区             
 
 支持：x64           
 
-* [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
+* [OpenWrt_mini](https://t.me/+dt5k_8Tj5voyMDhl)                           
 
 ## 入门教程区        
 
