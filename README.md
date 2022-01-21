@@ -6,13 +6,13 @@
 
 支持：x64 * R2S * R4S * R2C         
   
-* [OpenWrt_Pro](https://t.me/aixiaoshao)
+* [OpenWrt_Pro](https://t.me/openwrt_p)
 
 ## OpenWrt_mini专区             
 
 支持：x64           
 
-* [OpenWrt_mini](https://t.me/+dt5k_8Tj5voyMDhl)                           
+* [OpenWrt_mini](https://t.me/openwrt_mini)                           
 
 ## 入门教程区        
 
