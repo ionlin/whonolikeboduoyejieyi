@@ -12,7 +12,7 @@
 
 支持：x64           
 
-* [OpenWrt_mini](https://t.me/openwrt_mini)                           
+* [OpenWrt_mini](https://t.me/openwrt_m)                           
 
 ## 入门教程区        
 
