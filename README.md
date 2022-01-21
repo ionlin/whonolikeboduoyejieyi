@@ -15,14 +15,7 @@ touch /etc/config/passwall_show
 * ssrp芝麻开门命令：          
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
-```   
-
-## x64 passwall专区            
-
-passwall自带的分流规则包含了netflix、telegram等，已经满足大部分人需求，且可以手动导入新的分流规则，可以说是能够完全满足所有分流人群的需求。     
-
-* [x64 passwallOpenWrt](https://t.me/passwallOpenWRT233)             
-             
+```               
 
 ## x64 * R2S * R4S * R2C 矮小少专区   
 
@@ -35,12 +28,6 @@ passwall自带的分流规则包含了netflix、telegram等，已经满足大部
 缝合了ssrp+passwall+openclash+vssr+基础必须插件               
 
 * [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
-
-## All流行设备 ImmortalWrt专区           
-
-内置软件源，极简固件基础上让你随心所欲安装所需插件，懒人与小白自定义固件的究极神器。         
-
-* [ImmortalWrt官方发行站](http://downloads.immortalwrt.org)                     
 
 ## 入门教程区        
 
