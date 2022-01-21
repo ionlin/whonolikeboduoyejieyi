@@ -43,10 +43,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
 
-## about           
-
-本页面由 [助理](https://t.me/BDYJY666) 制作      
-![1](https://user-images.githubusercontent.com/73426989/145672298-f60c2d63-8c8a-4a77-aa83-3b9a44b27fb9.png)       
 
 
 
