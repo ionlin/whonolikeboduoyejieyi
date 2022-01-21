@@ -2,15 +2,15 @@
 
 # OpenWrt中国大陆              
 
-## x64 * R2S * R4S * R2C 矮小少专区   
+## 矮小少专区    
 
-缝合了ssrp+passwall+openclash+其他杂交品种翻墙插件+铁头娃们写的盗版及破解插件           
+支持：x64 * R2S * R4S * R2C         
   
 * [AXS矮小少软路由固件](https://t.me/aixiaoshao)
 
-## x64 多人运动专区             
+## 多人运动专区             
 
-缝合了ssrp+passwall+openclash+vssr+基础必须插件               
+支持：x64           
 
 * [x64 ImmortalWrt_4P](https://t.me/+dt5k_8Tj5voyMDhl)                           
 
