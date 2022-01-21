@@ -1,21 +1,6 @@
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)           
 
-# OpenWrt中国大陆       
-* 本仓库的博客页面(被墙中)：[链接](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)            
-* 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
-* 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
-* [telegram客户端下载](https://telegram.org/apps)           
-* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
-* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
-* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
-* passwall芝麻开门命令：     
-```
-touch /etc/config/passwall_show        
-```
-* ssrp芝麻开门命令：          
-```
-echo 0xDEADBEEF > /etc/config/google_fu_mode
-```               
+# OpenWrt中国大陆              
 
 ## x64 * R2S * R4S * R2C 矮小少专区   
 
@@ -42,7 +27,17 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
-
+* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
+* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
+* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
+* passwall芝麻开门命令：     
+```
+touch /etc/config/passwall_show        
+```
+* ssrp芝麻开门命令：          
+```
+echo 0xDEADBEEF > /etc/config/google_fu_mode
+```               
 
 
 
