@@ -64,7 +64,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 其他插件相关         
 
-* [upnp相关问题整理](./tips/upnp.md)          
+* [upnp相关问题整理](./tips/upnp.md)  
+* [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)                       
 * [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)          
 * [动态DNS中配置阿里云DDNS](./tips/ddns.md)
 * [看一下是否需要打开外网访问路由后台](./tips/webadmin.md)
