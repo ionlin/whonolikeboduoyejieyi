@@ -53,6 +53,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 非插件相关 
 
+* [清理windows系统下DNS缓存](./tips/clearDNS.md)
 * [编译入门秘籍](./fishtool.md)    
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
 * [单线程测速](http://speed.cloudflare.com)       
