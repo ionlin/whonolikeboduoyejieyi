@@ -42,6 +42,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 其他插件相关         
 
+* [upnp相关问题整理](./tips/upnp.md)          
 * 
 
 ### 非插件相关 
