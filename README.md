@@ -25,7 +25,7 @@
 ### passwall相关        
 
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
-* [](./tips/passwallURLfenliu.md)             
+* [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)             
 * [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)         
 * passwall芝麻开门命令（如果需要开门）：         
 ```
