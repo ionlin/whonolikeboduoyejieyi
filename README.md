@@ -60,7 +60,9 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
-* [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)        
+* [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)      
+* [东东的屏保怎么弄的](./tips/DDMacHaiBao.md)    
+* 
 
 
 
