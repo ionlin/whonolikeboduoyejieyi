@@ -12,7 +12,13 @@
 
 支持：x64           
 
-* [OpenWrt_mini](https://t.me/openwrt_m)                           
+* [OpenWrt_mini](https://t.me/openwrt_m)         
+
+## OpenWrt_Air专区        
+
+支持：acrh17 * 
+
+* [OpenWrt_Air](https://t.me/openwrt_a)             
 
 ## 入门教程区        
         
