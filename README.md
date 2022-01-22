@@ -26,7 +26,8 @@
 
 * [不希望任何人的设备连到我的openwrt路由下都可以翻墙](./tips/NoFriendUSEmyFQ.md)
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
-* [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)             
+* [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)         
+* [BT下载不走代理、翻墙线路极限速率测试、守护进程](./tips/passwallAdvancedSetting.md)                   
 * [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)     
 * 可以使用负载均衡同样地实现故障切换功能
 * 恢复默认配置方法，地址栏输入例：
