@@ -84,7 +84,85 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)         
 * [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)      
 * [东东的屏保怎么弄的](./tips/DDMacHaiBao.md)    
-* 
+
+### 常用命令、操作
+
+* 完全删除lede文件
+
+```
+rm -rf lede
+```
+
+* 清空回收站
+
+```
+sudo rm -rf ~/.local/share/Trash/*
+```
+
+* Windows的HOSTS文件位置(当出现一些网页元素加载失败时可以尝试清空HOSTS规则)
+
+```
+C:\Windows\System32\drivers\etc
+```
+
+* powershell中SSH连接路由器后台举例
+
+```
+ssh root@192.168.2.1
+password
+```
+
+* openwrt恢复出厂设置命令
+
+```
+firstboot
+```
+
+* 修改LAN口IP
+
+```
+vi /etc/config/network
+```
+
+* 默认root进入系统后添加普通用户
+
+```
+sudo useradd -m zhangsan -s /bin/bash
+sudo passwd zhangsan
+sudo adduser zhangsan sudo
+su zhangsan
+cd /home/zhangsan
+sudo apt-get update
+sudo apt-get install vim
+```
+
+* 举例指定git拉取my-19.07分支
+
+```
+git clone -b my-19.07 https://github.com/Lienol/openwrt.git
+```
+
+* 显示隐藏文件（.config）
+
+```
+ls -a 
+```
+
+或 
+Ctrl+H
+
+* git冲突，放弃本地修改，直接覆盖
+
+```
+git reset --hard
+git pull
+```
+
+* 强制安装上传到 /tmp/tmp 的IPK
+
+```
+opkg install /tmp/tmp/*.ipk --force-depends
+```
 
 
 
