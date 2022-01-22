@@ -25,7 +25,8 @@
 ### passwall相关        
 
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
-* 
+*          
+* [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)                      
 
 ### 其他 
 
