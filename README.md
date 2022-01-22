@@ -27,7 +27,26 @@
 * [不希望任何人的设备连到我的openwrt路由下都可以翻墙](./tips/NoFriendUSEmyFQ.md)
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
 * [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)             
-* [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)         
+* [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)     
+* 可以使用负载均衡同样地实现故障切换功能
+* 恢复默认配置方法，地址栏输入例：
+
+```
+http://192.168.5.1/cgi-bin/luci/admin/services/passwall/reset_config
+```
+
+* 隐藏菜单方法，地址栏输入例：
+ 
+```
+http://192.168.5.1/cgi-bin/luci/admin/services/passwall/hide
+```
+
+* 当你隐藏后想再次显示，地址栏输入例：
+
+```
+http://192.168.5.1/cgi-bin/luci/admin/services/passwall/show
+```
+
 * passwall芝麻开门命令（如果需要开门）：         
 ```
 touch /etc/config/passwall_show        
