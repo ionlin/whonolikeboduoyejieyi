@@ -45,6 +45,10 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [upnp相关问题整理](./tips/upnp.md)          
 * 
 
+### 固件全新安装升级、不保留配置上传升级相关
+
+* 
+
 ### 非插件相关 
 
 * [编译入门秘籍](./fishtool.md)    
