@@ -1,4 +1,4 @@
-脚本文件: [hyperVinstall.bat](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/releases/tag/v2022.01.22-hyperVinstall)       
+脚本文件：[hyperVinstall.bat](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/releases/tag/v2022.01.22-hyperVinstall)       
 
 * Win10 home 家庭版 安装 HyperV 的脚本。       
 * 管理员身份运行，完成后重启。       
