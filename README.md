@@ -27,13 +27,24 @@
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
 *          
 * [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)         
+* passwall芝麻开门命令（如果需要开门）：         
+```
+touch /etc/config/passwall_show        
+```
 
 ### ssrp相关      
 
 * [ssrp的分流如何开启](./tips/ssrpFenLiu.md)             
+* ssrp芝麻开门命令（如果需要开门）：          
+```
+echo 0xDEADBEEF > /etc/config/google_fu_mode
+```               
+
+### 其他插件相关         
+
 * 
 
-### 其他 
+### 非插件相关 
 
 * [编译入门秘籍](./fishtool.md)    
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
@@ -49,14 +60,7 @@
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
 * [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)        
-* passwall芝麻开门命令：     
-```
-touch /etc/config/passwall_show        
-```
-* ssrp芝麻开门命令：          
-```
-echo 0xDEADBEEF > /etc/config/google_fu_mode
-```               
+
 
 
 
