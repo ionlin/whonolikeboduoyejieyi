@@ -44,7 +44,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 * [upnp相关问题整理](./tips/upnp.md)          
 * [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)
-* [使用Samba协议打造家庭影音库](./tips/sambaNB.md)   
+* [使用Samba协议打造家庭影音库](./tips/sambaNB.md) 
+* [挂在路由上的百度网盘客户端](./tips/BaiDuWangPan.md)             
 * [家里自建一个ssr服务端](/tips/ssrMDBServer.md)       
 * 
 
