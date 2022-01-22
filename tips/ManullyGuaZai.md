@@ -30,12 +30,14 @@
 ![3](https://user-images.githubusercontent.com/73426989/150643396-aa8d1577-ed3c-460c-9f74-d7a9d04b6ad3.jpg)       
 
 挂载点，点击"添加"            
-然后推荐根据卷标(你在其他电脑上格式化硬盘成ext4文件系统时会分配一个卷标名称)选中你的某一块硬盘        
+然后推荐根据卷标(你在其他电脑上格式化硬盘成ext4文件系统时会分配一个卷标名称)选中你的某一块硬盘         
+
+![4](https://user-images.githubusercontent.com/73426989/150643458-42327799-e9e8-42f1-80fd-4d6ccf220a19.png)          
+
 挂载点“自定义”，推荐自定义成大家习惯的在/mnt/xxxx。同理重复操作此步骤直至添加完你的所有硬盘的挂载设置                
 
+第四步：   
 之后刷新就能看到你假如设置的/mnt/sda1、mnt/sdb1（其他/mnt/1、/mnt/2 什么的你设置也行）都在文件系统显示出来了，至此手挂载固定位置的文件系统已经大功告成。    
-
-![4](https://user-images.githubusercontent.com/73426989/150643458-42327799-e9e8-42f1-80fd-4d6ccf220a19.png)               
 
 ![5](https://user-images.githubusercontent.com/73426989/150643474-144255d1-d6ac-4b31-809b-ce6c35feb43b.png)          
 
