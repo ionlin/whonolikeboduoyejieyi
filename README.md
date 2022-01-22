@@ -43,6 +43,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 其他插件相关         
 
 * [upnp相关问题整理](./tips/upnp.md)          
+* [使用Samba协议打造家庭影音库](./tips/sambaNB.md)   
 * 
 
 ### 固件全新安装升级、不保留配置上传升级相关
