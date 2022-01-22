@@ -78,9 +78,9 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 固件全新安装升级、不保留配置上传升级相关
 
 * [不保留配置上传刷写固件](./tips/Upgrade.md) 
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)             
-* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)       
-* 
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)    
+* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)          
+* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)        
 
 ### 非插件相关 
 
