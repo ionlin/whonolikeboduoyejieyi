@@ -47,6 +47,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
+* []() 
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)             
 * 
 
 ### 非插件相关 
