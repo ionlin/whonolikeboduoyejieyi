@@ -43,7 +43,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 其他插件相关         
 
 * [upnp相关问题整理](./tips/upnp.md)          
-* [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)
+* [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)          
+* [动态DNS中配置阿里云DDNS](./tips/ddns.md)
 * [使用Samba协议打造家庭影音库](./tips/sambaNB.md) 
 * [最强文件分享服务器FileBrowser](./tips/FileBrowserNB.md)
 * [挂在路由上的百度网盘客户端](./tips/BaiDuWangPan.md)             
