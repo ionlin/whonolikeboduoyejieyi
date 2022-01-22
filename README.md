@@ -55,7 +55,8 @@ touch /etc/config/passwall_show
 
 ### ssrp相关      
 
-* [ssrp的分流如何开启](./tips/ssrpFenLiu.md)             
+* [ssrp的分流如何开启](./tips/ssrpFenLiu.md)    
+* [ssrp的翻墙线路莫名其妙变动](./tips/ssrpXJBbian.md)         
 * ssrp芝麻开门命令（如果需要开门）：          
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
