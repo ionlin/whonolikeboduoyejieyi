@@ -20,8 +20,15 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
-## 入门教程区        
-        
+## 教程区        
+
+### passwall相关        
+
+* [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
+* 
+
+### 其他 
+
 * [编译入门秘籍](./fishtool.md)    
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
 * [单线程测速](http://speed.cloudflare.com)       
