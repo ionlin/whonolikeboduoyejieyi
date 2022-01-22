@@ -24,6 +24,7 @@
 
 ### passwall相关        
 
+* [不希望任何人的设备连到我的openwrt路由下都可以翻墙](./tips/NoFriendUSEmyFQ.md)
 * [passwall指定特定设备走特定节点](./tips/passwallTeDingSheBeiQuanJuDaiLi.md)          
 * [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)             
 * [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)         
