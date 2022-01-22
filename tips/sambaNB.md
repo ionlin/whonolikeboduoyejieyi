@@ -1,5 +1,5 @@
-![photo_2022-01-22_22-35-31](https://user-images.githubusercontent.com/73426989/150642864-71aa8c58-c6dc-4bd6-9fe8-d4bc75c82a28.jpg)                
-
+![1](https://user-images.githubusercontent.com/73426989/150643067-a29f5351-f2ed-4227-b7f6-79e6a0e0e86e.png)
+            
 samba协议打造家庭影音库    
 
 网络存储 > 网络共享          
