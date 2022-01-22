@@ -48,6 +48,7 @@
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
+* [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)        
 * passwall芝麻开门命令：     
 ```
 touch /etc/config/passwall_show        
