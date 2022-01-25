@@ -188,9 +188,9 @@ opkg install /tmp/tmp/*.ipk --force-depends
 ```
 
 
-# 本页面相关交流群             
-
-[你比西方记者跑得还快](https://t.me/+bykW8ZpJax4wYzc1)              
+# About             
+* [参考消息](https://t.me/openwrt_cn)
+* [党支部](https://t.me/+bykW8ZpJax4wYzc1)                
 
 
 
