@@ -4,7 +4,7 @@
 
 ## OpenWrt_Pro专区    
 
-支持：x64 * R2S * R4S * R2C         
+支持：x64 * r2s * r4s * r2c         
   
 * [OpenWrt_Pro](https://t.me/openwrt_p)
 
