@@ -16,7 +16,7 @@
 
 ## OpenWrt_Air专区        
 
-支持：acrh17 * 
+支持：acrh17 * 竞斗云2 * ax6 * ax3600 * ac2100 * k2p * 新3
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
