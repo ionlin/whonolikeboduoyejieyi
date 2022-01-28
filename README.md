@@ -108,6 +108,12 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)      
 * [东东的屏保怎么弄的](./tips/DDMacHaiBao.md)    
 
+
+### 工具    
+
+* [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)             
+* 
+
 ### 常用命令、操作
 
 * 完全删除lede文件
