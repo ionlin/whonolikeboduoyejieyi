@@ -20,6 +20,12 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
+## 配套工具区    
+
+* [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)             
+* [PVE 7.0-9、10、11、13显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)             
+* 
+
 ## 教程区        
 
 ### passwall相关        
@@ -83,7 +89,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)          
 * [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)        
 
-### 非插件相关 
+## 其他区 
 
 * [清理windows系统下DNS缓存](./tips/clearDNS.md)  
 * [Chrome浏览器强制转换LuCI页面为暗黑主题](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN)      
@@ -108,14 +114,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)      
 * [东东的屏保怎么弄的](./tips/DDMacHaiBao.md)    
 
-
-### 工具    
-
-* [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)             
-* [PVE 7.0-9、10、11、13显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)             
-* 
-
-### 常用命令、操作
+## 常用命令、操作区
 
 * 完全删除lede文件
 
