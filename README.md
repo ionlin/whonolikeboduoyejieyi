@@ -112,6 +112,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 工具    
 
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)             
+* [PVE 7.0-9、10、11、13显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)             
 * 
 
 ### 常用命令、操作
