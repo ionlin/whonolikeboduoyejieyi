@@ -22,10 +22,19 @@
 
 ## 配套工具区    
 
+### 容器相关
+
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)             
 * [PVE 7.0-9、10、11、13显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)             
 * [ESXi-6.7.0-Update3B-2.5Gbps-customized](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EfQnLOjegrVOpm22T0Sm42MB7E3uObuLg9Y1LOJXi_3-yw?e=Avy8Cn)   
-* [NAT路由类型检测工具NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)     
+
+
+### 固件全新安装升级、不保留配置上传升级相关
+
+* [不保留配置上传刷写固件](./tips/Upgrade.md) 
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)    
+* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)          
+* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)        
 
 
 ## 教程区        
@@ -73,8 +82,9 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 其他插件相关         
 
-* [upnp相关问题整理](./tips/upnp.md)  
-* [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)                       
+* [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)        
+* [upnp相关问题整理](./tips/upnp.md)    
+* [NAT路由类型检测工具NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)                            
 * [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)          
 * [动态DNS中配置阿里云DDNS](./tips/ddns.md)
 * [看一下是否需要打开外网访问路由后台](./tips/webadmin.md)
@@ -84,12 +94,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
 * [WAN口丢失后重建](./tips/CreWAN.md)
 
-### 固件全新安装升级、不保留配置上传升级相关
-
-* [不保留配置上传刷写固件](./tips/Upgrade.md) 
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)    
-* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)          
-* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)        
 
 ## 其他区 
 
