@@ -20,6 +20,13 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
+## ImmortalWrt官方发行专区
+
+支持：所有主流设备（最精简固件基础上允许用户自由opkg安装ImmortalWrt官方源支持的超级更富的ipk）          
+
+* [ImmortalWrt发行站](http://downloads.immortalwrt.org)                         
+
+
 ## 配套工具区    
 
 ### 容器相关
