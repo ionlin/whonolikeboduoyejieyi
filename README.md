@@ -30,7 +30,7 @@
 
 支持：x64等（经典高大全等）         
 
-* [eir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                  
+* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                  
 
 ## 配套工具区    
 
