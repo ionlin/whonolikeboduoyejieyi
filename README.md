@@ -34,8 +34,9 @@
 * [PVE 7.0-9、10、11、13（显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度）](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)             
 * [ESXi-6.7.0-Update3B-2.5Gbps-customized](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EfQnLOjegrVOpm22T0Sm42MB7E3uObuLg9Y1LOJXi_3-yw?e=Avy8Cn)     
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)      
-* [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)                    
+* [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
 
+——Lean的QQ群：297253733               
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
@@ -221,14 +222,13 @@ opkg install /tmp/tmp/*.ipk --force-depends
 * HWNAT 对小包（小于 128K) 不会有加速效果，而大部分游戏和 DNS 等都是小的 UDP 报文，这时候都靠 CPU 转发，x86 软路由有明显的转发性能优势。
 * 挨个检查客人手机里是否装了WiFi万能钥匙，发现的立马打死      
     
-——Lean     
-
+——Lean的QQ群：297253733         
 
 
 ## About区    
 
-* [参考消息](https://t.me/openwrt_cn)
-* [党支部](https://t.me/+bykW8ZpJax4wYzc1)                
+* [参考消息频道](https://t.me/openwrt_cn)
+* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1)                
 
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)          
 
