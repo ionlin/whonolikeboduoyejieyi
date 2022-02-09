@@ -26,6 +26,11 @@
 
 * [ImmortalWrt发行站](http://downloads.immortalwrt.org)                         
 
+## eSir专区
+
+支持：x64等              
+
+* [eir的谷歌盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                  
 
 ## 配套工具区    
 
