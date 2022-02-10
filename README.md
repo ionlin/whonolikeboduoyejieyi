@@ -45,10 +45,10 @@
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
-* [不保留配置上传刷写固件](./tips/Upgrade.md) 
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)    
+* [不保留配置上传升级固件](./tips/Upgrade.md) 
+* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus（msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）](https://github.com/pbatard/rufus/releases)        
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)          
-* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases)        
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)   
 
 
 ## 教程区        
