@@ -3,7 +3,7 @@
 test_method='none plain aes-128-gcm aes-256-gcm chacha20-ietf-poly1305'
 
 gen_img_file(){
-	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=1000
+	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=500
 }
 
 gen_ss_json(){
