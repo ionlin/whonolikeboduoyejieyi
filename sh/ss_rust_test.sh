@@ -24,8 +24,8 @@ launch_ss(){
 	i=0
 	while [ $i -lt 4 ]
 	do
-		ssserver -c $PWD/ss.json >/dev/null 2>&1 &
-		sslocal -c  $PWD/ss.json >/dev/null 2>&1 &
+		ss-erver -c $PWD/ss.json >/dev/null 2>&1 &
+		ss-local -c  $PWD/ss.json >/dev/null 2>&1 &
 		let i++
 	done
 }
