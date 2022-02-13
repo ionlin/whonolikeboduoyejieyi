@@ -1,6 +1,6 @@
 #!/bin/ash
 
-test_method='aes-128-ctr aes-128-cfb aes-128-gcm aes-256-ctr aes-256-cfb aes-256-gcm chacha20 chacha20-ietf chacha20-ietf-poly1305 rc4-md5 xchacha20-ietf-poly1305'
+test_method='none plain aes-128-gcm aes-256-gcm chacha20-ietf-poly1305'
 
 gen_img_file(){
 	dd if=/dev/zero of=/www/test.img bs=1M count=0 seek=300
